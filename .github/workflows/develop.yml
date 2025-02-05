@@ -20,10 +20,5 @@ jobs:
       aws-statefile-s3-bucket: "joaoneves11-sa-east-1-terraform-statefile"
       aws-lock-dynamodb-table: "joaoneves11-sa-east-1-terraform-lock"
 
-name: "DEV DEPLOY"
 
-on:
-  push:
-    branches:
-      - develop
 
