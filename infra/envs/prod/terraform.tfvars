@@ -1,2 +1,2 @@
-bucket_name="prod-sa-east-1-buildrun-pipeline"
+bucket_name="prod-sa-east-1-pipeline"
   
