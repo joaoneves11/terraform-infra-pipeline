@@ -1,6 +1,5 @@
 name: "Terraform Workflow"
 
-
 on:
   workflow_call:
     inputs:
@@ -12,7 +11,7 @@ on:
         required: true
       aws-region:
         type: string
-        required: true  
+        required: true
       aws-statefile-s3-bucket:
         type: string
         required: true
